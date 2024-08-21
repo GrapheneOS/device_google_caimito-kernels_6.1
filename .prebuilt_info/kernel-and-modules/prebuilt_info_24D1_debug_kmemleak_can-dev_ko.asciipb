@@ -1,0 +1,11 @@
+drops {
+  android_build_drop {
+    build_id: "12143323"
+    target: "caimito_debug_kmemleak"
+    source_file: "can-dev.ko"
+  }
+  dest_file: "24D1/debug_kmemleak/can-dev.ko"
+  version: "12143323"
+  version_group: "kernel-and-modules"
+  git_project: "device/google/caimito-kernels/6.1"
+}
