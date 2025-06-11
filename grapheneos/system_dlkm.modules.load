@@ -2,7 +2,6 @@ kernel/arch/arm64/geniezone/gzvm.ko
 kernel/kernel/kheaders.ko
 kernel/mm/zsmalloc.ko
 kernel/lib/crypto/libarc4.ko
-kernel/drivers/block/zram/zram.ko
 kernel/drivers/net/mii.ko
 kernel/drivers/net/can/dev/can-dev.ko
 kernel/drivers/net/can/vcan.ko

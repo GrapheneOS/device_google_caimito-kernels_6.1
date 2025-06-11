@@ -74,6 +74,7 @@ extra/private/google-modules/soc/gs/drivers/soc/google/pixel_stat/mm/pixel_stat_
 extra/private/google-modules/soc/gs/drivers/soc/google/pkvm-s2mpu/pkvm-s2mpu-v9/pkvm-s2mpu-v9.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/perf_trace_counters.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/kernel-top.ko
+extra/private/google-modules/soc/gs/drivers/soc/google/modemctl/google_modemctl.ko
 extra/private/google-modules/soc/gs/drivers/regulator/pmic_class.ko
 extra/private/google-modules/soc/gs/drivers/regulator/s2mpg14-regulator.ko
 extra/private/google-modules/soc/gs/drivers/regulator/s2mpg14-powermeter.ko

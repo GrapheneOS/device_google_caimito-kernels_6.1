@@ -7,12 +7,12 @@ extra/private/google-modules/soc/gs/drivers/soc/google/vh/kernel/sched/vh_preemp
 extra/private/google-modules/soc/gs/drivers/soc/google/acpm/acpm_mbox_test.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/bcm_dbg.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/pa_kill/pa_kill.ko
+extra/private/google-modules/soc/gs/drivers/soc/google/smra/smra.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/dbgcore-dump.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/exynos-seclog.ko
 extra/private/google-modules/soc/gs/drivers/regulator/rt6160-regulator.ko
 extra/private/google-modules/soc/gs/drivers/input/misc/vl53l1/stmvl53l1.ko
 extra/private/google-modules/soc/gs/drivers/input/fingerprint/goodixfp.ko
-extra/private/google-modules/soc/gs/drivers/thermal/google/sts4x_ambient_i2c.ko
 extra/private/google-modules/soc/gs/drivers/thermal/google/cdev_uclamp.ko
 extra/private/google-modules/soc/gs/drivers/pwm/pwm-exynos.ko
 extra/private/google-modules/soc/gs/drivers/video/backlight/rt4539_bl.ko
@@ -29,8 +29,10 @@ extra/private/google-modules/bms/max77729_uic.ko
 extra/private/google-modules/bms/max77729_charger.ko
 extra/private/google-modules/bms/max77779-fwupdate.ko
 extra/private/google-modules/bms/rt9471_charger.ko
+extra/private/google-modules/bms/hl7132.ko
 extra/private/google-modules/display/samsung/panel/panel-boe-nt37290.ko
 extra/private/google-modules/edgetpu/rio/drivers/edgetpu/rio.ko
+extra/private/google-modules/fingerprint/goodix/fps_touch_handler/fps_touch_handler.ko
 extra/private/google-modules/gpu/mali_kbase/tests/kutf/mali_kutf.ko
 extra/private/google-modules/gpu/mali_kbase/tests/mali_kutf_clk_rate_trace/kernel/mali_kutf_clk_rate_trace_test_portal.ko
 extra/private/google-modules/gxp/zuma/gxp.ko
