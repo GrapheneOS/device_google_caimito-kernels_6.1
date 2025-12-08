@@ -35,6 +35,8 @@ extra/private/google-modules/edgetpu/rio/drivers/edgetpu/rio.ko
 extra/private/google-modules/fingerprint/goodix/fps_touch_handler/fps_touch_handler.ko
 extra/private/google-modules/gpu/mali_kbase/tests/kutf/mali_kutf.ko
 extra/private/google-modules/gpu/mali_kbase/tests/mali_kutf_clk_rate_trace/kernel/mali_kutf_clk_rate_trace_test_portal.ko
+extra/private/google-modules/gpu/mali_kbase/mali_kbase.ko
+extra/private/google-modules/gpu/mali_pixel/mali_pixel.ko
 extra/private/google-modules/gxp/zuma/gxp.ko
 extra/private/google-modules/lwis/lwis.ko
 extra/private/google-modules/misc/sscoredump/sscoredump_test.ko
