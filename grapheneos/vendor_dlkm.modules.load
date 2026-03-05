@@ -63,3 +63,4 @@ extra/private/google-modules/touch/synaptics/syna_gtd/syna_touch.ko
 extra/private/google-modules/uwb/qorvo/qm35/qm35s/qm35.ko
 extra/private/google-modules/wlan/bcm4390/bcmdhd4390.ko
 extra/private/google-modules/wlan/wlan_ptracker/wlan_ptracker.ko
+extra/private/google-modules/wlan/wonder/wonder.ko
