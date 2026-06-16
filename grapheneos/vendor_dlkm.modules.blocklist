@@ -1,0 +1,14 @@
+blocklist aoc_unit_test_dev
+blocklist mali_kutf
+blocklist mali_kutf_clk_rate_trace_test_portal
+blocklist sscoredump_sample_test.ko
+blocklist sscoredump_test.ko
+
+blocklist bcmdhd4390
+blocklist cs40l26_i2c
+blocklist gs-panel-common-test.ko
+blocklist panel-gs-tk4c-test.ko
+blocklist pwm_exynos
+blocklist rt4539_bl
+blocklist sec_touch
+blocklist syna_touch
